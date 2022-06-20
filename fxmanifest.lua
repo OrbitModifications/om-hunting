@@ -6,7 +6,7 @@ description 'om-hunting'
 version '1.0.0'
 
 shared_script 'config.lua'
-client_scripts 'client.lua'
-server_script 'server.lua'
+client_scripts 'main.lua'
+server_script 'main.lua'
 
 lua54 'yes'
